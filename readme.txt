@@ -1,4 +1,4 @@
-== Millionaire's Digest Extended Profile Fields ===
+== Millionaire's Digest Specific Profile Fields ===
 Contributors: K&L
 Tags: Millionaire's Digest, Profile, Fields
 Requires at least: 4.5.7
